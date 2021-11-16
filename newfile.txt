@@ -1,2 +1,7 @@
 Hello World
 Hello World 2
+What is the difference between add, commit, and push?
+
+git add:  adds your modified files to the queue for commitment.
+git commit: commits the added files and creates a new revision with a log
+git push: pushes your changes to the remote repository.
